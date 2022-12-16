@@ -17,3 +17,12 @@ Wrote the producer data in S3
 Read those S3 data via glue crawler.
 
 Analysed and got the final output in Athena.
+
+
+Architecture Flow .
+
+![Architecture_ride_sharing](https://user-images.githubusercontent.com/75135556/208143418-c941da24-96c2-4214-b180-ff8f44bd3eba.jpg)
+
+
+
+
